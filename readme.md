@@ -3,6 +3,7 @@ Table Information Extraction with Bengali OCR
 
 ## Dependency Installation
 
+- Python 3.6
 - !pip install pdf2image
 - !pip install pytesseract
 - !sudo pip install xlsxwriter
